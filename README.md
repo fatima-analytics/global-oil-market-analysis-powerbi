@@ -22,4 +22,5 @@ This project explores global oil production, consumption, and energy dependency 
 A significant share of global oil supply passes through the Strait of Hormuz, making dependent countries highly vulnerable to disruptions.
 
 ## 📸 Dashboard Preview
-(Add your screenshot here)
+<img width="1312" height="740" alt="image" src="https://github.com/user-attachments/assets/f088dc0a-7c14-4fe8-8106-689648b3154d" />
+
