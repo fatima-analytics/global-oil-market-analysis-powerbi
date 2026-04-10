@@ -1,2 +1,25 @@
-# global-oil-market-analysis-powerbi
-Power BI project analyzing global oil production, consumption and energy dependency
+# 🌍 Global Oil Market Analysis (Power BI)
+
+## 📊 Project Overview
+This project explores global oil production, consumption, and energy dependency using Power BI.
+
+## 🎯 Objectives
+- Analyze global oil production trends
+- Compare production vs consumption
+- Identify energy-dependent countries
+- Highlight geopolitical risks
+
+## ⚙️ Tools Used
+- Power BI
+- Power Query
+
+## 🔍 Key Insights
+- High production does not guarantee energy independence
+- Some countries consume more oil than they produce
+- Energy dependency increases exposure to global supply risks
+
+## 🌍 Geopolitical Insight
+A significant share of global oil supply passes through the Strait of Hormuz, making dependent countries highly vulnerable to disruptions.
+
+## 📸 Dashboard Preview
+(Add your screenshot here)
